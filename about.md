@@ -1,13 +1,11 @@
 ---
 layout: page
 title: "Introduction"
-description: "你的博客描述 " 
+description: "李华东的博客描述 " 
 header-img: "img/green.jpg"
 ---
 
 ### 李华东
-
-![](./img/self.jpg)
 
 #### 教育经历
 清华大学  2019 年 9 月-2022 年 6 月
