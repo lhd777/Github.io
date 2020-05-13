@@ -2,9 +2,9 @@
 title: 李华东的博客 # 你的博客名字，可以定义修订
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "李华东，THU计算机科学与技术硕士在读。博客记录论文阅读笔记、项目经验、网络教程等等。"  # 一句话描述你的博客
+description: 李华东，THU计算机科学与技术硕士在读。博客记录论文阅读笔记、项目经验、网络教程等等。  # 一句话描述你的博客
 baseurl: ""
-url: "http://lhd777.online"  # 此处填写你的博客地址 
+url: http://lhd777.online  # 此处填写你的博客地址 
 
 # About/contact
 owner: 
