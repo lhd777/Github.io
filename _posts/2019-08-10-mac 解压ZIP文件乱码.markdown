@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "mac 解压zip文件乱码"
+date:   2019-08-10 16:26:53 +0800
+categories: jekyll update
+---
+
+#### 报错
+在mac上使用unzip解压ZIP可能出现报错，原因是因为在win上打包ZIP的时候，使用的GBK编码，在mac上无法正常解压。
+
+```
+Illegal byte sequence
+```
+#### 解决方案1
+使用ditto方式进行解压
+```
+ditto -V -x -k --sequester Rsrc filename.zip destination
+```
+#### 解决方案2
+使用unar解压方式
+```
+unar -e GBK filename.zip
+```

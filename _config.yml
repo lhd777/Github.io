@@ -14,15 +14,16 @@ owner:
         架构和数据分析。" # 填写作者信息：博客描述
 
 # Data
-gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
-favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
+gavatar: img/self.jpg # 浏览器地址栏小图标，可自定义更改
+favicon: img/self.jpg # 浏览器地址栏小图标，可自定义更改
 
-douban_username:  # 你的豆瓣id
+github_username: lhd777
+zhihu_username: li-hua-dong-56
+douban_username: 196122149
 twitter_username: 
-github_username: 
 facebook_username: 
 weibo_username: 
-zhihu_username: 
+
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -43,7 +44,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "post"
+      layout: posts
       author: "李华东" # 你的名字
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 

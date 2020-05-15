@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Introduction"
-description: "李华东的博客描述 " 
+title: "Resume"
+description: "李华东的简历 " 
 header-img: "img/green.jpg"
 ---
 
